@@ -18,11 +18,14 @@ public class Main {
             case 3:
                 Task3_3 t3 = new Task3_3 ();
                 break;
-            case 5:
+            case 4:
                 Task3_4 t4 = new Task3_4 ();
                 break;
-            case 6:
+            case 5:
                 Task3_5 t5 = new Task3_5 ();
+                break;
+            case 6:
+                Task3_6 t6 = new Task3_6 ();
                 break;
             default:
                 System.out.println("Немає такого завдання =)");
